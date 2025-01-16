@@ -1,0 +1,17 @@
+Chat session started with Anuska assisted by agent Leonardo Owens
+Question: can you please tell me about the courses avilable 
+Chat disconected...
+Chat reconected!
+Answer: The University of Poppleton offers a wide range of undergraduate and postgraduate courses. Visit the courses section of the website for more details.
+Question: is there a canteen or a cafe
+Answer: Multiple keywords detected:
+The canteen is open from 9 AM to 8:30 PM and offers a variety of meals, including both vegetarian and non-vegetarian options.
+The cafe opens from 7:30 AM to 6 PM on weekdays, serving variety of drinks and bakery items.The cafe provides a pleasant atmosphere for the students to hang out with their friends.�
+Question: can you give me a tour ?
+Answer: I am sorry {user_name}, I am not sure I have an answer for that right now.
+Question: when are the upcomming exams ?
+Answer: The exam schedule is published on the university portal. Students are advised to log in to view their routine.
+Question: ok thanks
+Answer: That is an interesting question {user_name}. Let me think about it. I will get back to you with more details shortly.
+Question: i wanna quit the chat
+The chat session came to an end.
